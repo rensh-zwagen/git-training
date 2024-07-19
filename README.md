@@ -1,3 +1,3 @@
 # git-training
 
-Memperbagus tulisan
+Memperbagus tulisan wndjkan
