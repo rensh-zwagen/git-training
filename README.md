@@ -1,3 +1,3 @@
-# git-training
+# git-training-1
 
-Memperbagus tulisan wndjkan
+Memperbagus tulisan wndjkan-1
