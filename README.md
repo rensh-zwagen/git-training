@@ -1,3 +1,4 @@
 # git-training-1
 
-Memperbagus tulisan wndjkan-1
+Memperbagus tulisan ini
+Sangat bagus sekali
